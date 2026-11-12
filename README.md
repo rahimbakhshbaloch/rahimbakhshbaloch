@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi there, I'm Rahim Bakhsh 👋
 
-<!--
-**rahimbakhshbaloch/rahimbakhshbaloch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Electrical Engineering Student | Developer | Tech Enthusiast
+🎓 **3rd Semester Electrical Engineering** at **Sukkur IBA University**, Pakistan  
+💡 **Vice Chairperson** – Education Society & Lead at **Tech & Innovation Forum**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- ⚡ Passionate about **Circuit Design, Digital Logic, and Embedded Electronics**
+- 💻 Building problem-solving logic and automation with **Python, C++, and Java**
+- 🛡️ Exploring **Linux System Administration, Networking & Cybersecurity**
+- 🛠️ Designing 3D mechanical models and assemblies in **SolidWorks**
+
+---
+
+### 🛠️ Tech Stack & Tools
+- **Languages:** Python, C++, Java
+- **Electronics & CAD:** Circuit Analysis, Digital Logic Design, NI ELVIS II, SolidWorks
+- **Security & OS:** Kali Linux, Ubuntu, VirtualBox, Docker, Nmap, Burp Suite
+- **Tools:** Git, GitHub, VS Code
+
+---
+
+### 📊 GitHub Stats
+![Rahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahimbakhshbaloch&show_icons=true&theme=radical)
+
+---
+
+### 📫 Connect with Me
+- **University:** Sukkur IBA University
+- **Location:** Sukkur, Pakistan
+-
